@@ -1,1 +1,16 @@
 user_id,genre,loyalty_score
+user_1,Pop,3000
+user_10,Pop,2500
+user_100,Pop,2800
+user_11,Hip-Hop,2900
+user_12,Rock,2700
+user_13,Hip-Hop,2300
+user_14,Rock,2700
+user_15,Pop,2400
+user_16,Rock,2800
+user_17,Pop,3100
+user_18,Pop,2100
+user_19,Rock,3300
+user_2,Rock,2900
+user_20,Pop,3100
+user_21,Pop,2300

@@ -80,7 +80,7 @@ Each folder contains result files saved using `.write.csv(..., header=True)`.
 
 ### 📜 Run the Script
 ```bash
-spark-submit music_streaming_analysis.py
+spark-submit analysis.py
 ```
 
 ---
@@ -96,26 +96,24 @@ spark-submit music_streaming_analysis.py
 ---
 
 ## 📸 Screenshots
-* Happy recommendations:
-![alt text](image.png)
 
 * Find each user’s favorite genre.
-
+![alt text](1.png)
 
 * Calculate the average listen time per song.
-
+![alt text](2.png)
 
 * List the top 10 most played songs this week.
-
+![alt text](3.png)
 
 * Recommend “Happy” songs to users who mostly listen to “Sad” songs.
-
+![alt text](4.png)
 
 * Compute the genre loyalty score for each user.
-
+![alt text](5.png)
 
 * Identify users who listen to music between 12 AM and 5 AM.
-
+![alt text](6.png)
 
 
 > *(Include screenshots of your output files or console here if required by submission)*
