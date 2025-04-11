@@ -116,7 +116,7 @@ spark-submit analysis.py
 ![alt text](6.png)
 
 
-> *(Include screenshots of your output files or console here if required by submission)*
+
 
 
 ---
